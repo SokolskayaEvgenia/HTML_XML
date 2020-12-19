@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 01", "ITMO.Markup.HTML_Task 01", "{585459C6-65E6-4DD5-AC96-84E62BCC6A9B}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\04.jpg = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\04.jpg
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.1.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.1.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.2.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.2.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.3.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.3.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 02", "ITMO.Markup.HTML_Task 02", "{0998E943-286E-4147-8EB5-7CA4B5DA6113}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.1_index.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.1_index.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.2_code.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.2_code.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.3_classification.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.3_classification.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.4_findings.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.4_findings.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 03", "ITMO.Markup.HTML_Task 03", "{C7B651B0-2FF6-4110-B07C-610ABAEA39D5}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C4CDDD-606F-45F7-9321-1E676B3ADE16}
+	EndGlobalSection
+EndGlobal

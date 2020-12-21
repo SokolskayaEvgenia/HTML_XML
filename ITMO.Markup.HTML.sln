@@ -6,9 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 01", "ITMO.Markup.HTML_Task 01", "{585459C6-65E6-4DD5-AC96-84E62BCC6A9B}"
 	ProjectSection(SolutionItems) = preProject
 		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\04.jpg = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\04.jpg
-		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.1.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.1.html
-		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.2.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.2.html
-		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.3.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.3.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.ex1.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.ex1.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.ex2.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.ex2.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.ex3.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 01\ITMO.Markup.HTML_01.ex3.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 02", "ITMO.Markup.HTML_Task 02", "{0998E943-286E-4147-8EB5-7CA4B5DA6113}"

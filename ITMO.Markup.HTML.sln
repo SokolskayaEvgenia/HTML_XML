@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 01", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 02", "ITMO.Markup.HTML_Task 02", "{0998E943-286E-4147-8EB5-7CA4B5DA6113}"
 	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\button_1.jpg = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\button_1.jpg
 		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.1_index.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.1_index.html
 		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.2_code.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.2_code.html
 		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.3_classification.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 02\ITMO.Markup.HTML_02.3_classification.html
@@ -20,6 +21,38 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 02", 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 03", "ITMO.Markup.HTML_Task 03", "{C7B651B0-2FF6-4110-B07C-610ABAEA39D5}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 03\ITMO.Markup.HTML_03.4_about_buttons.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 03\ITMO.Markup.HTML_03.4_about_buttons.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 03\ITMO.Markup.HTML_03.ex4.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 03\ITMO.Markup.HTML_03.ex4.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 04", "ITMO.Markup.HTML_Task 04", "{A451C8C0-3276-40C5-8BF1-7CCFEDAC1D65}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 04\ITMO.Markup.HTML_04.5_table.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 04\ITMO.Markup.HTML_04.5_table.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 04\ITMO.Markup.HTML_04.ex5.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 04\ITMO.Markup.HTML_04.ex5.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 05", "ITMO.Markup.HTML_Task 05", "{B9E59EA1-1E14-458A-B2C8-22E9A6D9B1D5}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\button_4.jpg = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\button_4.jpg
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\ITMO.Markup.HTML_05.4_map.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\ITMO.Markup.HTML_05.4_map.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\ITMO.Markup.HTML_05.ex6.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\ITMO.Markup.HTML_05.ex6.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\video.mp4 = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 05\video.mp4
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 06", "ITMO.Markup.HTML_Task 06", "{4D242C02-5275-4B0B-BD9B-A0A629495B9B}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 06\enot.jpg = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 06\enot.jpg
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 06\ITMO.Markup.HTML_Task 06.ex7.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 06\ITMO.Markup.HTML_Task 06.ex7.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.HTML_Task 07", "ITMO.Markup.HTML_Task 07", "{2247ED6D-D1EE-47C3-AEAE-470B8F29D357}"
+	ProjectSection(SolutionItems) = preProject
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\block_1.css = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\block_1.css
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\block_2.css = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\block_2.css
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\ITMO.Markup.HTML_Task 07.1_block_1.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\ITMO.Markup.HTML_Task 07.1_block_1.html
+		ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\ITMO.Markup.HTML_Task 07.2_block_2.html = ITMO.Markup.HTML\ITMO.Markup.HTML_Task 07\ITMO.Markup.HTML_Task 07.2_block_2.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution

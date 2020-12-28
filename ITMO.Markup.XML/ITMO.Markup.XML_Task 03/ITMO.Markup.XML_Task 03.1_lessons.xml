@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<schedule>
+
+<schedule xmlns="http://msiter.ru"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="SYSTEM ITMO.MArkup.XML_Task03.1_lessons_XML.xsd">
 	<courses>
 		<course id="c1">
 			<name>Технологии программирования</name>

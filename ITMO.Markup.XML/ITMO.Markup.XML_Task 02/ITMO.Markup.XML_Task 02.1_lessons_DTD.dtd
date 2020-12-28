@@ -1,0 +1,13 @@
+<!ELEMENT schedule (courses+)>
+<!ELEMENT courses (course+)>
+<!ELEMENT course (name, teacher, begin, end, time, (books|websites)?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT begin (#PCDATA)>
+<!ELEMENT end (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT books (book+)>
+<!ELEMENT book (#PCDATA)>
+<!ELEMENT websites (website+)>
+<!ELEMENT website (#PCDATA)>
+<!ATTLIST course id ID #REQUIRED>	

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<classns:schedule xmlns:classns="http://www.itmo.ru/xml/lessons" xmlns:sourses="http://www.itmo.ru/xml/lessons/literature">
+	<classns:courses>
+		<classns:course id="c1">
+			<classns:name>Технологии программирования</classns:name>
+			<classns:teacher>Осипов Н.А.</classns:teacher>
+			<classns:begin>29.09.2020</classns:begin>
+			<classns:end>16.10.2020</classns:end>
+			<classns:time>18:30-21:50</classns:time>
+			<sourses:books>
+				<sourses:book>Основы современных алгоритмов. Дж. Макконнелл</sourses:book>
+			</sourses:books>
+		</classns:course>
+		<classns:course id="c2">
+			<classns:name>Программирование на С#</classns:name>
+			<classns:teacher>Осипов Н.А.</classns:teacher>
+			<classns:begin>19.10.2020</classns:begin>
+			<classns:end>06.11.2020</classns:end>
+			<classns:time>18:30-21:50</classns:time>
+			<sourses:books>
+				<sourses:book>Программирование в тональности С#. Ч. Петцольд</sourses:book>
+			</sourses:books>
+		</classns:course>
+		<classns:course id="c3">
+			<classns:name>Введение в БД</classns:name>
+			<classns:teacher>Осетрова И.С.</classns:teacher>
+			<classns:begin>09.11.2020</classns:begin>
+			<classns:end>19.11.2020</classns:end>
+			<classns:time>18:30-21:50</classns:time>
+			<sourses:books>
+				<sourses:book>Введение в системы баз данных. Дэйт К. Дж.</sourses:book>
+			</sourses:books>
+		</classns:course>
+		<classns:course id="c4">
+			<classns:name>Разработка Windows-приложений на С#</classns:name>
+			<classns:teacher>Смольянинов А.В.</classns:teacher>
+			<classns:begin>23.11.2020</classns:begin>
+			<classns:end>17.12.2020</classns:end>
+			<classns:time>18:30-21:30</classns:time>
+			<sourses:books>
+				<sourses:book>Программирование для Microsoft Windows на С#. Ч. Петцольд</sourses:book>
+			</sourses:books>
+		</classns:course>
+		<classns:course id="c5">
+			<classns:name>Основы технологий разметки (HTML, XML)</classns:name>
+			<classns:teacher>Смольянинов А.В.</classns:teacher>
+			<classns:begin>18.12.2020</classns:begin>
+			<classns:end>28.12.2020</classns:end>
+			<classns:time>18:30-21:30</classns:time>
+			<sourses:books>
+				<sourses:book>Изучаем HTML, XHTML и CSS. Робсон Э., Фримен Э.</sourses:book>
+			</sourses:books>
+		</classns:course>
+	</classns:courses>
+</classns:schedule>

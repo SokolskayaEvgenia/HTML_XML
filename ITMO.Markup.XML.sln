@@ -21,7 +21,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ITMO.Markup.XML_Task 03", "ITMO.Markup.XML_Task 03", "{9A4E5C73-4CFC-4EB6-B907-F67B24D74A5A}"
 	ProjectSection(SolutionItems) = preProject
 		ITMO.Markup.XML\ITMO.Markup.XML_Task 03\ITMO.Markup.XML_Task 03.1_lessons.xml = ITMO.Markup.XML\ITMO.Markup.XML_Task 03\ITMO.Markup.XML_Task 03.1_lessons.xml
-		ITMO.Markup.XML\ITMO.Markup.XML_Task 03\ITMO.MArkup.XML_Task 03.1_lessons_XML.xsd = ITMO.Markup.XML\ITMO.Markup.XML_Task 03\ITMO.MArkup.XML_Task 03.1_lessons_XML.xsd
+		ITMO.Markup.XML\ITMO.Markup.XML_Task 03\ITMO.MArkup.XML_Task03.1_lessons_XML.xsd = ITMO.Markup.XML\ITMO.Markup.XML_Task 03\ITMO.MArkup.XML_Task03.1_lessons_XML.xsd
 	EndProjectSection
 EndProject
 Global
